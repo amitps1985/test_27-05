@@ -1,0 +1,10 @@
+variable "rgs" {}
+variable "stgs" {}
+variable "pips" {}
+variable "vnets" {}
+variable "vms" {}
+variable "subnets" {}
+variable "key_vaults" {}
+variable "nsgs" {}
+variable "mssql_database" {}
+variable "mssql_server" {}
